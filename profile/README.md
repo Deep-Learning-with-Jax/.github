@@ -16,25 +16,34 @@ University-level math courses make it much easier to understand the material. Ho
 
 ### Part 1, Basics
 - Day 1: Introduction
-    - What is machine learning, and what can it do for us?
+    - How to get started
+    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_01_exercise_intro)
 - Day 2: Optimization
     - The derivative, gradients, optimization via gradient descent.
+    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_02_exercise_optimization)   
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
+   - [Exercise](https://github.com/Deep-Learning-with-Jax/day_03_exercise_algebra)
 - Day 4:  Statistics
    - Mean and variance, correlation, Gaussians.
+   - [Exercise](https://github.com/Deep-Learning-with-Jax/day_04_exercise_statistics)
 
 ### Part 2, Deep Learning
-- Day 11: Fully connected networks:
+- Day 5: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
-- Day 12: Convolutional neural networks:
+    -  [Exercise](https://github.com/Deep-Learning-with-Jax/day_05_exercise_neural_networks)
+- Day 6: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-- Day 13: Optimization for deep neural networks:
+    -  [Exercise](https://github.com/Deep-Learning-with-Jax/day_06_exercise_cnn)
+- Day 7: Optimization for deep neural networks:
     -  Gradient descent with momentum, Adam, early stopping, regularization.
-- Day 14: Interpretability:
+    -  [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode)
+- Day 8: Interpretability:
     - Visualization of linear classifiers, saliency maps, integrated gradients
- - Day 15: Sequence models:
+    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability)
+- Day 9: Sequence models:
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
+    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing)
 
 
 ## Support
