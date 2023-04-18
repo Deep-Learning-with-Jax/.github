@@ -26,30 +26,30 @@ This is the first public version of this course. You will notice here and there.
     - [Exercise](https://github.com/Deep-Learning-with-Jax/day_01_exercise_intro)
 - Day 2: Optimization
     - The derivative, gradients, optimization via gradient descent.
-    - [Recording](https://uni-bonn.sciebo.de/s/8W7P94GSBmMsdOs), [Exercise](https://github.com/Deep-Learning-with-Jax/day_02_exercise_optimization)   
+    - [Recording](https://uni-bonn.sciebo.de/s/8W7P94GSBmMsdOs), [Exercise](https://github.com/Deep-Learning-with-Jax/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
-   - [Recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [Exercise](https://github.com/Deep-Learning-with-Jax/day_03_exercise_algebra)
+   - [Recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [Exercise](https://github.com/Deep-Learning-with-Jax/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
 - Day 4:  Statistics
    - Mean and variance, correlation, Gaussians.
-   - [Recording](https://uni-bonn.sciebo.de/s/fA7HqygB3KBiu4l), [Exercise](https://github.com/Deep-Learning-with-Jax/day_04_exercise_statistics)
+   - [Recording](https://uni-bonn.sciebo.de/s/fA7HqygB3KBiu4l), [Exercise](https://github.com/Deep-Learning-with-Jax/day_04_exercise_statistics), [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
 
 ### Part 2, Deep Learning
 - Day 5: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
-    -  [Recording](https://uni-bonn.sciebo.de/s/OQoPHoIAxVJEBPj), [Exercise](https://github.com/Deep-Learning-with-Jax/day_05_exercise_neural_networks)
+    -  [Recording](https://uni-bonn.sciebo.de/s/OQoPHoIAxVJEBPj), [Exercise](https://github.com/Deep-Learning-with-Jax/day_05_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
 - Day 6: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-    -  [Recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [Exercise](https://github.com/Deep-Learning-with-Jax/day_06_exercise_cnn)
+    -  [Recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [Exercise](https://github.com/Deep-Learning-with-Jax/day_06_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
 - Day 7: Optimization for deep neural networks:
     -  Gradient descent with momentum, Adam, early stopping, regularization.
-    -  [Recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode)
+    -  [Recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/oIUliR6azuaWTnQ)
 - Day 8: Interpretability:
     - Visualization of linear classifiers, saliency maps, integrated gradients
-    - [Recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability)
+    - [Recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/AA6N8Ijt1PONKoN)
 - Day 9: Sequence models:
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
-    - [Recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing)
+    - [Recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S))
 
 
 ## Support
