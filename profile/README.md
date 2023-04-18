@@ -1,5 +1,5 @@
 ## Introduction to deep learning
-This fifteen-day crash course is part of the course program for incoming Ph.D. students at the University of Bonn's [BIGS-Neuroscience](https://bigs-neuroscience.de/) and [BIGS Clinical and Population Science](https://bigs-clinpopscience.de/). We are releasing it here for those who could not attend the course in person. Furthermore, we hope that it will help a broader audience.
+This nine-day crash course is part of the course program for incoming Ph.D. students at the University of Bonn's [BIGS-Neuroscience](https://bigs-neuroscience.de/) and [BIGS Clinical and Population Science](https://bigs-clinpopscience.de/). We are releasing it here for those who could not attend the course in person. Furthermore, we hope that it will help a broader audience.
 
 The material currently consists of lecture videos, slides and exercises.
 Most exercises come with unit tests, allowing you to verify your solutions independently. The first exercise explains how to do that.
