@@ -9,9 +9,9 @@ All exercises will run on Ubuntu 22.04.1 with ffmpeg version 4.4.2.
 An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro). Attend in person for access to tutoring.
 
 
-Prerequisites:
-Programming in Python. If you are unfamiliar with Python, please consult https://docs.python.org/3/tutorial/ before the first session.
-University-level math courses make it much easier to understand the material. However, participants from our digital humanities groups have completed the course on site.
+#### Prerequisites:
+Programming in Python. If you are unfamiliar with Python, please consult https://docs.python.org/3/tutorial/ before starting to work on the course.
+Exposure to university-level math courses make it much easier to understand the material. However, participants from our digital humanities groups have completed the course on site.
 
 ## Course contents:
 
@@ -21,30 +21,30 @@ University-level math courses make it much easier to understand the material. Ho
     - [Exercise](https://github.com/Deep-Learning-with-Jax/day_01_exercise_intro)
 - Day 2: Optimization
     - The derivative, gradients, optimization via gradient descent.
-    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_02_exercise_optimization)   
+    - [Recording](https://uni-bonn.sciebo.de/s/8W7P94GSBmMsdOs), [Exercise](https://github.com/Deep-Learning-with-Jax/day_02_exercise_optimization)   
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
-   - [Exercise](https://github.com/Deep-Learning-with-Jax/day_03_exercise_algebra)
+   - [Recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [Exercise](https://github.com/Deep-Learning-with-Jax/day_03_exercise_algebra)
 - Day 4:  Statistics
    - Mean and variance, correlation, Gaussians.
-   - [Exercise](https://github.com/Deep-Learning-with-Jax/day_04_exercise_statistics)
+   - [Recording](https://uni-bonn.sciebo.de/s/fA7HqygB3KBiu4l), [Exercise](https://github.com/Deep-Learning-with-Jax/day_04_exercise_statistics)
 
 ### Part 2, Deep Learning
 - Day 5: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
-    -  [Exercise](https://github.com/Deep-Learning-with-Jax/day_05_exercise_neural_networks)
+    -  [Recording](https://uni-bonn.sciebo.de/s/OQoPHoIAxVJEBPj), [Exercise](https://github.com/Deep-Learning-with-Jax/day_05_exercise_neural_networks)
 - Day 6: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-    -  [Exercise](https://github.com/Deep-Learning-with-Jax/day_06_exercise_cnn)
+    -  [Recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [Exercise](https://github.com/Deep-Learning-with-Jax/day_06_exercise_cnn)
 - Day 7: Optimization for deep neural networks:
     -  Gradient descent with momentum, Adam, early stopping, regularization.
-    -  [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode)
+    -  [Recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode)
 - Day 8: Interpretability:
     - Visualization of linear classifiers, saliency maps, integrated gradients
-    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability)
+    - [Recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability)
 - Day 9: Sequence models:
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
-    - [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing)
+    - [Recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing)
 
 
 ## Support
