@@ -46,7 +46,7 @@ This is the first public version of this course. You will notice here and there.
     -  [Recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/oIUliR6azuaWTnQ)
 - Day 8: Interpretability:
     - Visualization of linear classifiers, saliency maps, integrated gradients
-    - [Recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/AA6N8Ijt1PONKoN)
+    - [Recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
 - Day 9: Sequence models:
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
     - [Recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S))
