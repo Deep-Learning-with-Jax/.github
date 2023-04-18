@@ -18,39 +18,19 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
 - Day 4:  Statistics
-   - mean and variance, correlation, gaussians.
+   - Mean and variance, correlation, Gaussians.
 
-### Part 2, Foundations of machine learning
-- Day 5: Machine learning basics
-  - Overfitting and underfitting, classification, regression, k-nearest neighbours.
-- Day 6: Support vector machines
-  - Linear separable, non-linear separable, kernel trick.
-- Day 7: Decision trees and random forests:
-  - Decision trees, random forests, bias and variance problem, bagging.
-- Day 8:  Clustering and density estimation
-  - K-means clustering, Gaussian mixture models, expectation-maximization.
-- Day 9: Principal component analysis (PCA)
-  - PCA for dimensionality reduction, PCA for compression and other applications.
-
-### Part 3, Using HPC Systems
-- Day 10: Introduction to the HPC Systems at Uni Bonn.
-
-### Part 4, Deep Learning
+### Part 2, Deep Learning
 - Day 11: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
 - Day 12: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
 - Day 13: Optimization for deep neural networks:
-    -  gradient descent with momentum, Adam, early stopping, regularization.
+    -  Gradient descent with momentum, Adam, early stopping, regularization.
 - Day 14: Interpretability:
-    - visualization of linear classifiers, saliency maps, integrated gradients
+    - Visualization of linear classifiers, saliency maps, integrated gradients
  - Day 15: Sequence models:
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
-
-See you during the course,
-
-Your lecturers, Elena and Moritz.
-
 
 
 ## Support
