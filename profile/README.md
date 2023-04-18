@@ -6,7 +6,7 @@ Most exercises come with unit tests, allowing you to verify your solutions indep
 
 All exercises will run on Ubuntu 22.04.1 with ffmpeg version 4.4.2 and miniconda python.
 
-An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro). Attend in person for access to tutoring.
+An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro). Attend in person for access to tutoring. Accept exercises by following the exercise links and using the template.
 
 
 #### Prerequisites:
