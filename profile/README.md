@@ -15,7 +15,7 @@ Exposure to university-level math courses make it much easier to understand the 
 
 
 ### Feedback
-This is the first version of this course. You will notice here and there. We are continuously working on improvements and new content. Make sure you come back next semester! If you have feedback or ideas for improvement, [reach out](https://www.dice.uni-bonn.de/hpca/de/hpca-lab-mitarbeiter/dr-moritz-wolter).
+This is the first public version of this course. You will notice here and there. Unfortunately the recording started to late on days two and three. Fortunately not too much is missing. We are continuously working on improvements and new content. Make sure you come back next semester! If you have feedback or ideas for improvement, [reach out](https://www.dice.uni-bonn.de/hpca/de/hpca-lab-mitarbeiter/dr-moritz-wolter).
 
 
 ## Course contents:
