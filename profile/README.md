@@ -1,12 +1,9 @@
 ## Foundations of Machine Learning
-Three weeks, 15 days, a lecture and exercises every day. The three-week course takes place from 9:00-17:00 at the University IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes of lecture 90 min exercises, followed by 4 hrs of programming under guidance from the tutors.
-
-Members of the University of Bonn can [register via ecampus](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro).
-
-Three weeks, 15 days, a lecture and exercises every day. The three-week course takes place from 9:00-17:00 at the University IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes of lecture 90 min exercises, followed by 4 hrs of programming under guidance from the tutors.
+This fifteen day crash course is part of course program for incoming phD students at the University of Bonn's [BIGS-Neuroscience](https://bigs-neuroscience.de/) and [BIGS Clinical and Population Science](https://bigs-clinpopscience.de/). We are releasing it here for those of you who could not attend the course in person and in the hope, that it will be useful to a wider audience.
 
 Prerequisites:
 Programming in Python. If you are not yet familiar with python, please consult https://docs.python.org/3/tutorial/ before the first session.
+University level math courses make it much easier to follow the course.
 
 ## Course contents:
 
