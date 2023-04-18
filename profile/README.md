@@ -1,10 +1,17 @@
-## Foundations of Machine Learning
-This fifteen day crash course is part of course program for incoming phD students at the University of Bonn's [BIGS-Neuroscience](https://bigs-neuroscience.de/) and [BIGS Clinical and Population Science](https://bigs-clinpopscience.de/). We are releasing it here for those of you who could not attend the course in person and in the hope, that it will be useful to a wider audience.
+## Introduction to deep learning
+This fifteen-day crash course is part of the course program for incoming Ph.D. students at the University of Bonn's [BIGS-Neuroscience](https://bigs-neuroscience.de/) and [BIGS Clinical and Population Science](https://bigs-clinpopscience.de/). We are releasing it here for those who could not attend the course in person. Furthermore, we hope that it will help a broader audience.
+
+The material currently consists of lecture videos, slides and exercises.
+Most exercises come with unit tests, allowing you to verify your solutions independently. The first exercise explains how to do that.
+
+All exercises will run on Ubuntu 22.04.1 with ffmpeg version 4.4.2.
+
+An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro).
+
 
 Prerequisites:
-Programming in Python. If you are not yet familiar with python, please consult https://docs.python.org/3/tutorial/ before the first session.
-University level math courses make it much easier to follow the course.
-
+Programming in Python. If you are unfamiliar with Python, please consult https://docs.python.org/3/tutorial/ before the first session.
+University-level math courses make it much easier to understand the material. However, participants from our Humanities departments have completed the course in person.
 ## Course contents:
 
 ### Part 1, Basics
