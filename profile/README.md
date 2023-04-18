@@ -13,6 +13,11 @@ An extended version of this course is held in person every semester. [Members of
 Programming in Python. If you are unfamiliar with Python, please consult https://docs.python.org/3/tutorial/ before starting to work on the course.
 Exposure to university-level math courses make it much easier to understand the material. However, participants from our digital humanities groups have completed the course on site.
 
+
+### Feedback
+This is the first version of this course. You will notice here and there. We are continuously working on improvements and new content. Make sure you come back next semester! If you have feedback or ideas for improvement, [reach out](https://www.dice.uni-bonn.de/hpca/de/hpca-lab-mitarbeiter/dr-moritz-wolter).
+
+
 ## Course contents:
 
 ### Part 1, Basics
@@ -46,9 +51,6 @@ Exposure to university-level math courses make it much easier to understand the 
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
     - [Recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing)
 
-
-## Feedback
-This is the first version of this course. If you have feedback or ideas for improvement, [reach out](https://www.dice.uni-bonn.de/hpca/de/hpca-lab-mitarbeiter/dr-moritz-wolter).
 
 ## Support
 
