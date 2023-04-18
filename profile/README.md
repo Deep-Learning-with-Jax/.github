@@ -47,6 +47,9 @@ Exposure to university-level math courses make it much easier to understand the 
     - [Recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [Exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing)
 
 
+## Feedback
+This is the first version of this course. If you have feedback or ideas for improvement, [reach out](https://www.dice.uni-bonn.de/hpca/de/hpca-lab-mitarbeiter/dr-moritz-wolter).
+
 ## Support
 
 We thank the state of North Rhine-Westphalia and the Federal Ministry of Education and Research for supporting this project.
