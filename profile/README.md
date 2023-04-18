@@ -6,12 +6,13 @@ Most exercises come with unit tests, allowing you to verify your solutions indep
 
 All exercises will run on Ubuntu 22.04.1 with ffmpeg version 4.4.2.
 
-An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro).
+An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro). Attend in person for access to tutoring.
 
 
 Prerequisites:
 Programming in Python. If you are unfamiliar with Python, please consult https://docs.python.org/3/tutorial/ before the first session.
-University-level math courses make it much easier to understand the material. However, participants from our Humanities departments have completed the course in person.
+University-level math courses make it much easier to understand the material. However, participants from our digital humanities groups have completed the course on site.
+
 ## Course contents:
 
 ### Part 1, Basics
