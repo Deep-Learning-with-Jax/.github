@@ -4,7 +4,7 @@ This nine-day crash course is part of the course program for incoming Ph.D. stud
 The material currently consists of lecture videos, slides and exercises.
 Most exercises come with unit tests, allowing you to verify your solutions independently. The first exercise explains how to do that.
 
-All exercises will run on Ubuntu 22.04.1 with ffmpeg version 4.4.2.
+All exercises will run on Ubuntu 22.04.1 with ffmpeg version 4.4.2 and miniconda python.
 
 An extended version of this course is held in person every semester. [Members of the University can register](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro). Attend in person for access to tutoring.
 
