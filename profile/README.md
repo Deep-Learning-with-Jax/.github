@@ -43,7 +43,7 @@ This is the first public version of this course. You will notice here and there.
     -  [Recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [Exercise](https://github.com/Deep-Learning-with-Jax/day_06_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
 - Day 7: Optimization for deep neural networks:
     -  Gradient descent with momentum, Adam, early stopping, regularization.
-    -  [Recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/oIUliR6azuaWTnQ)
+    -  [Recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [Exercise](https://github.com/Deep-Learning-with-Jax/day_07_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
 - Day 8: Interpretability:
     - Visualization of linear classifiers, saliency maps, integrated gradients
     - [Recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [Exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
