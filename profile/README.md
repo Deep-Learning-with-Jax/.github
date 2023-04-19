@@ -11,7 +11,7 @@ An extended version of this course is held in person every semester. [Members of
 
 #### Prerequisites:
 Programming in Python. If you are unfamiliar with Python, please consult https://docs.python.org/3/tutorial/ before starting to work on the course.
-Exposure to university-level math courses make it much easier to understand the material. However, participants from our digital humanities groups have completed the course on site.
+Exposure to university-level math courses makes it much easier to understand the material. However, participants from our digital humanities groups have completed the course on site.
 
 
 ### Feedback
@@ -49,7 +49,7 @@ This is the first public version of this course. You will notice here and there.
     - [recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [exercise](https://github.com/Deep-Learning-with-Jax/day_08_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
 - Day 9: Sequence models:
     - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
-    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S))
+    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [exercise](https://github.com/Deep-Learning-with-Jax/day_09_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S)
 
 
 ## Support
