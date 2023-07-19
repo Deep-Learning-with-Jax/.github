@@ -64,4 +64,4 @@ We thank the state of North Rhine-Westphalia and the Federal Ministry of Educati
 </table>
 
 ## Known issues
-Github.com has problems rendering math formulae correctly. Use [vscode's preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) feature to render the files and read the readmes.
+Github.com has problems rendering math formulae correctly. Use [vscode's preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) feature to render the files and read the readmes. If you prefer another editor, use [pandoc](https://pandoc.org) to convert the markdown file to pdf, i.e. via `pandoc -o REAMDE.pdf README.md`.
