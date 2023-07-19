@@ -62,3 +62,6 @@ We thank the state of North Rhine-Westphalia and the Federal Ministry of Educati
     <td><img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/BMBF_gefoerdert_2017_en.jpg" height="150"></td>
 </tr>
 </table>
+
+## Known issues
+Github.com has problems rendering math formulae correctly. Use [vscode's preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) feature to render the files and read the readmes.
